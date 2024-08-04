@@ -1,6 +1,3 @@
-<img src="https://github.com/user-attachments/assets/6ea3ceaa-dd32-48c3-b1ca-48b3bf2c49b3" width="100%">
-
----
 # 코딩테스트 대비 문제집 with Baekjoon
 
 [![Auto Update README](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml/badge.svg)](https://github.com/tony9402/baekjoon/actions/workflows/auto_update.yml)  
